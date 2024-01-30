@@ -6,5 +6,7 @@ This is the source code for coding challenge submitted by Yuqi Yi. The design is
 
 Tool used: Vivado
 
-## Hardware or Sofware Project Completed
+![image](Simulation_Results.png)
+
+## Hardware or Software Project Completed
 
