@@ -17,4 +17,5 @@ The most interesting project I have completed is about embedded hardware impleme
 
 ## More Information
 
+Github page: https://github.com/CoraYi/Coding_Challenge.git
 Linkedin: https://www.linkedin.com/in/yuqi-yi-7675bb293/
